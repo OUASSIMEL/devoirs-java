@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-To get a local copy up and running, clone the reop and follow these simple steps.
+To get a local copy up and running, clone the repo and follow these simple steps.
 
 ### Prerequisites
 
